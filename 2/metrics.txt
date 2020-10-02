@@ -1,0 +1,30 @@
+# HELP  drogozina_user from /proc/stat
+# TYPE  drogozina_user gauge
+drogozina_user 47428
+# HELP  drogozina_nice from /proc/stat
+# TYPE  drogozina_nice gauge
+drogozina_nice 496
+# HELP  drogozina_system from /proc/stat
+# TYPE  drogozina_system gauge
+drogozina_system 28525
+# HELP  drogozina_idle from /proc/stat
+# TYPE  drogozina_idle gauge
+drogozina_idle 8641954
+# HELP  drogozina_iowait from /proc/stat
+# TYPE  drogozina_iowait gauge
+drogozina_iowait 33519
+# HELP  drogozina_irq from /proc/stat
+# TYPE  drogozina_irq gauge
+drogozina_irq 68368
+# HELP  drogozina_softirq from /proc/stat
+# TYPE  drogozina_softirq gauge
+drogozina_softirq 20329
+# HELP  drogozina_steal from /proc/stat
+# TYPE  drogozina_steal gauge
+drogozina_steal 0
+# HELP  drogozina_quest from /proc/stat
+# TYPE  drogozina_quest gauge
+drogozina_quest 0
+# HELP  drogozina_guest_nice from /proc/stat
+# TYPE  drogozina_guest_nice gauge
+drogozina_guest_nice 0

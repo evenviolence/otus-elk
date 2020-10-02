@@ -1,0 +1,4 @@
+[Service]
+LimitNOFILE=32000
+LimitNPROC=32000
+
